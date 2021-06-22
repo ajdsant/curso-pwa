@@ -30,7 +30,7 @@ body {
 /*#region header*/
 
 #main-header {
-    background-color: white;
+    background-color: red;
     height: 100px;
     line-height: 85px;
 }
